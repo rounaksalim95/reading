@@ -1,0 +1,1 @@
+- [Intro to WhatsApp's infrastructure](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html)
